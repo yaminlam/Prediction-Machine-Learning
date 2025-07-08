@@ -1,4 +1,4 @@
-echo "# 🧠 Prediction Machine Learning API
+ 🧠 Prediction Machine Learning API
 
 A Django-based machine learning backend API for uploading datasets, training models, and generating predictions.
 
